@@ -14,9 +14,30 @@ WEB [willsantos/shopando_web: Interface Web para o Shopando (github.com)](https:
 
 Mobile
 
+# Desafios Dev
 
+## Faceis
 
-# Ideias de Features
+- [ ] CRUD do sistema
+- [ ] Controle de acesso
+
+## Intermediários
+
+- [ ]  Sincronização de listas
+- [ ]  Deploy
+
+## Avançados
+
+- [ ] Integração com a lista de compras da Alexa.
+- [ ] CI/CD
+
 
 # Sprints
+
+
+<details>
+    <summary>Sprint Initial</summary>
+    - [ ] Definição de recursos para o MVP <br>
+    - [ ] Divisão de tarefas
+</details>
 
